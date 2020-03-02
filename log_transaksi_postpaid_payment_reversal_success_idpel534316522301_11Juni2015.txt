@@ -1,0 +1,95 @@
+
+<!-- saved from url=(0053)http://localhost/ShymponiPaymentPoint/RunSyhmpony.php -->
+<html pmbx_context="21D46C33-DC79-4133-B11D-630D05367ABD"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>string(113) "21004030004180810000059950100000002842120150521144845602107451001707666666600000000000000480190000000534316522301"
+string(349) "211050300041828100000599501360000000002222000000002842120150521144845602107451001707666666600000000000000000048232JTL53L35343165223011014B80AD99444F88C79E704D0D470BCBAADEEE/VELLLL 1 "BBLNN     534310264-270817      R1000000450000000000201505200520150000000000000019220D00000000000000000000000003000004703000047570000000000000000000000000000000000ÿ
+"
+object(stdClass)#3 (41) {
+  ["mti"]=&gt;
+  string(4) "2110"
+  ["bitmap"]=&gt;
+  string(16) "5030004182810000"
+  ["length_of_pan"]=&gt;
+  string(2) "05"
+  ["pan"]=&gt;
+  string(5) "99501"
+  ["iso_currency"]=&gt;
+  string(3) "360"
+  ["currency_minor"]=&gt;
+  string(1) "0"
+  ["value_amount"]=&gt;
+  string(12) "000000022220"
+  ["stan"]=&gt;
+  string(12) "000000028421"
+  ["date_time"]=&gt;
+  string(14) "20150521144845"
+  ["merchant_code"]=&gt;
+  string(4) "6021"
+  ["length_bank"]=&gt;
+  string(2) "07"
+  ["bank_code"]=&gt;
+  string(7) "4510017"
+  ["length_cid"]=&gt;
+  string(2) "07"
+  ["partner_cid"]=&gt;
+  string(7) "6666666"
+  ["response_code"]=&gt;
+  string(4) "0000"
+  ["terminal_id"]=&gt;
+  string(16) "0000000000000048"
+  ["length_privated"]=&gt;
+  string(3) "232"
+  ["switcher_id"]=&gt;
+  string(7) "JTL53L3"
+  ["subscriber_id"]=&gt;
+  string(12) "534316522301"
+  ["bill_status"]=&gt;
+  string(1) "1"
+  ["total_outstanding_bill"]=&gt;
+  string(2) "01"
+  ["switcher_reference_number"]=&gt;
+  string(32) "4B80AD99444F88C79E704D0D470BCBAA"
+  ["subscriber_name"]=&gt;
+  string(25) "DEEE/VELLLL 1 "BBLNN     "
+  ["service_unit"]=&gt;
+  string(5) "53431"
+  ["service_unit_phone"]=&gt;
+  string(15) "0264-270817    "
+  ["subscriber_segmentation"]=&gt;
+  string(4) "  R1"
+  ["power_consuming_category"]=&gt;
+  string(9) "000000450"
+  ["total_admin_charges"]=&gt;
+  string(9) "000000000"
+  ["bill_period"]=&gt;
+  string(6) "201505"
+  ["due_date"]=&gt;
+  string(8) "20052015"
+  ["meter_read_date"]=&gt;
+  string(8) "00000000"
+  ["total_electricity_bill"]=&gt;
+  string(11) "00000019220"
+  ["incentive"]=&gt;
+  string(11) "D0000000000"
+  ["value_added_tax"]=&gt;
+  string(10) "0000000000"
+  ["penalty_fee"]=&gt;
+  string(9) "000003000"
+  ["previous_meter_reading1"]=&gt;
+  string(8) "00470300"
+  ["current_meter_reading1"]=&gt;
+  string(8) "00475700"
+  ["previous_meter_reading2"]=&gt;
+  string(8) "00000000"
+  ["current_meter_reading2"]=&gt;
+  string(8) "00000000"
+  ["previous_meter_reading3"]=&gt;
+  string(8) "00000000"
+  ["current_meter_reading3"]=&gt;
+  string(8) "00000000"
+}
+string(343) "22005030004180810000059950136000000000222200000000284212015052114484560210745100170766666660000000000000048233JTL53L353431652230111014B80AD99444F88C79E704D0D470BCBAADEEE/VELLLL 1 "BBLNN     534310264-270817      R1000000450000000000201505200520150000000000000019220D00000000000000000000000003000004703000047570000000000000000000000000000000000"
+string(441) "22105032004182810002059950136000000000222200000000284212015052114484500000612602107451001707666666600000000000000000048233JTL53L353431652230111010BSM210ZF2791FB34CB4DE5BAEE35CFBDEEE/VELLLL 1 "BBLNN     534310264-270817      R1000000450000000000201505200520150000000000000019220D00000000000000000000000003000004703000047570000000000000000000000000000000000080Rincian Tagihan dapat diakses di www.pln.co.id,Informasi Hubungi Call Center:123ÿ
+"
+string(389) "241050300041828101000599501360000000002224000000002842120150521144845602107451001707666666600000000000000000048233JTL53L353431652230111010BSM210ZF2791FB34CB4DE5BAEE35CFBDEEE/VELLLL 1 "BBLNN     534310264-270817      R1000000450000000000201505200520150000000000000019220D00000000000000000000000003000004703000047570000000000000000000000000000000000372200000000028421201505211448454510017ÿ
+"
+</body></html>

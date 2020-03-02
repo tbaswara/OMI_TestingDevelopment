@@ -1,0 +1,189 @@
+
+<!-- saved from url=(0053)http://localhost/ShymponiPaymentPoint/RunSyhmpony.php -->
+<html pmbx_context="FE2C7B31-7DB3-4655-BFAB-1734BF8C3947"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>string(113) "21004030004180810000059950100000002842120150521144845602107451001707456789800000000000000480190000000211001025251"
+string(682) "211050300041828100000599501360000000042597000000002842120150521144845602107451001707456789800000000000000000048565JTL53L3211001025251405D2D70C9A66D46A28FE1D569D718FFB64DEVEL POSTPAID 5BLN TRX1 21102021-99999910     R1000000900000000000201409200920140000000000000114620D00000000000000000000000009000023625000238140000000000000000000000000000000000201410201020140000000000000110840D00000000000000000000000006000023814000239960000000000000000000000000000000000201411201120140000000000000099510D00000000000000000000000003000023996000241570000000000000000000000000000000000201412201220140000000000000080000D00000000000000000000000003000024157000242000000000000000000000000000000000000ÿ
+"
+object(stdClass)#3 (41) {
+  ["mti"]=&gt;
+  string(4) "2110"
+  ["bitmap"]=&gt;
+  string(16) "5030004182810000"
+  ["length_of_pan"]=&gt;
+  string(2) "05"
+  ["pan"]=&gt;
+  string(5) "99501"
+  ["iso_currency"]=&gt;
+  string(3) "360"
+  ["currency_minor"]=&gt;
+  string(1) "0"
+  ["value_amount"]=&gt;
+  string(12) "000000425970"
+  ["stan"]=&gt;
+  string(12) "000000028421"
+  ["date_time"]=&gt;
+  string(14) "20150521144845"
+  ["merchant_code"]=&gt;
+  string(4) "6021"
+  ["length_bank"]=&gt;
+  string(2) "07"
+  ["bank_code"]=&gt;
+  string(7) "4510017"
+  ["length_cid"]=&gt;
+  string(2) "07"
+  ["partner_cid"]=&gt;
+  string(7) "4567898"
+  ["response_code"]=&gt;
+  string(4) "0000"
+  ["terminal_id"]=&gt;
+  string(16) "0000000000000048"
+  ["length_privated"]=&gt;
+  string(3) "565"
+  ["switcher_id"]=&gt;
+  string(7) "JTL53L3"
+  ["subscriber_id"]=&gt;
+  string(12) "211001025251"
+  ["bill_status"]=&gt;
+  string(1) "4"
+  ["total_outstanding_bill"]=&gt;
+  string(2) "05"
+  ["switcher_reference_number"]=&gt;
+  string(32) "D2D70C9A66D46A28FE1D569D718FFB64"
+  ["subscriber_name"]=&gt;
+  string(25) "DEVEL POSTPAID 5BLN TRX1 "
+  ["service_unit"]=&gt;
+  string(5) "21102"
+  ["service_unit_phone"]=&gt;
+  string(15) "021-99999910   "
+  ["subscriber_segmentation"]=&gt;
+  string(4) "  R1"
+  ["power_consuming_category"]=&gt;
+  string(9) "000000900"
+  ["total_admin_charges"]=&gt;
+  string(9) "000000000"
+  ["bill_period"]=&gt;
+  string(6) "201409"
+  ["due_date"]=&gt;
+  string(8) "20092014"
+  ["meter_read_date"]=&gt;
+  string(8) "00000000"
+  ["total_electricity_bill"]=&gt;
+  string(11) "00000114620"
+  ["incentive"]=&gt;
+  string(11) "D0000000000"
+  ["value_added_tax"]=&gt;
+  string(10) "0000000000"
+  ["penalty_fee"]=&gt;
+  string(9) "000009000"
+  ["previous_meter_reading1"]=&gt;
+  string(8) "02362500"
+  ["current_meter_reading1"]=&gt;
+  string(8) "02381400"
+  ["previous_meter_reading2"]=&gt;
+  string(8) "00000000"
+  ["current_meter_reading2"]=&gt;
+  string(8) "00000000"
+  ["previous_meter_reading3"]=&gt;
+  string(8) "00000000"
+  ["current_meter_reading3"]=&gt;
+  string(341) "00000000201410201020140000000000000110840D00000000000000000000000006000023814000239960000000000000000000000000000000000201411201120140000000000000099510D00000000000000000000000003000023996000241570000000000000000000000000000000000201412201220140000000000000080000D00000000000000000000000003000024157000242000000000000000000000000000000000000"
+}
+string(676) "22005030004180810000059950136000000004259700000000284212015052114484560210745100170745678980000000000000048566JTL53L32110010252514405D2D70C9A66D46A28FE1D569D718FFB64DEVEL POSTPAID 5BLN TRX1 21102021-99999910     R1000000900000000000201409200920140000000000000114620D00000000000000000000000009000023625000238140000000000000000000000000000000000201410201020140000000000000110840D00000000000000000000000006000023814000239960000000000000000000000000000000000201411201120140000000000000099510D00000000000000000000000003000023996000241570000000000000000000000000000000000201412201220140000000000000080000D00000000000000000000000003000024157000242000000000000000000000000000000000000"
+string(774) "22105032004182810002059950136000000004259700000000284212015052114484500000604602107451001707456789800000000000000000048566JTL53L321100102525144050BSM210Z6BB71E99D76E146A17C00777DEVEL POSTPAID 5BLN TRX1 21102021-99999910     R1000000900000000000201409200920140000000000000114620D00000000000000000000000009000023625000238140000000000000000000000000000000000201410201020140000000000000110840D00000000000000000000000006000023814000239960000000000000000000000000000000000201411201120140000000000000099510D00000000000000000000000003000023996000241570000000000000000000000000000000000201412201220140000000000000080000D00000000000000000000000003000024157000242000000000000000000000000000000000000080Rincian Tagihan dapat diakses di www.pln.co.id,Informasi Hubungi Call Center:123ÿ
+"
+object(stdClass)#4 (47) {
+  ["mti"]=&gt;
+  string(4) "2210"
+  ["bitmap"]=&gt;
+  string(16) "5032004182810002"
+  ["length_of_pan"]=&gt;
+  string(2) "05"
+  ["pan"]=&gt;
+  string(5) "99501"
+  ["iso_currency"]=&gt;
+  string(3) "360"
+  ["currency_minor"]=&gt;
+  string(1) "0"
+  ["value_amount"]=&gt;
+  string(12) "000000425970"
+  ["stan"]=&gt;
+  string(12) "000000028421"
+  ["date_time"]=&gt;
+  string(14) "20150521144845"
+  ["date_settlement"]=&gt;
+  string(8) "00000604"
+  ["merchant_code"]=&gt;
+  string(4) "6021"
+  ["length_bank"]=&gt;
+  string(2) "07"
+  ["bank_code"]=&gt;
+  string(7) "4510017"
+  ["length_cid"]=&gt;
+  string(2) "07"
+  ["partner_cid"]=&gt;
+  string(7) "4567898"
+  ["response_code"]=&gt;
+  string(4) "0000"
+  ["terminal_id"]=&gt;
+  string(16) "0000000000000048"
+  ["length_privated"]=&gt;
+  string(3) "566"
+  ["switcher_id"]=&gt;
+  string(7) "JTL53L3"
+  ["material_number"]=&gt;
+  string(11) "21100102525"
+  ["subscriber_id"]=&gt;
+  string(12) "144050BSM210"
+  ["flag"]=&gt;
+  string(1) "Z"
+  ["pln_reference_number"]=&gt;
+  string(1) "6"
+  ["switcher_reference_number"]=&gt;
+  string(32) "BB71E99D76E146A17C00777DEVEL POS"
+  ["vending_receive_number"]=&gt;
+  string(8) "TPAID 5B"
+  ["subscriber_name"]=&gt;
+  string(25) "A17C00777DEVEL POSTPAID 5"
+  ["subscriber_segmentation"]=&gt;
+  string(4) "BLN "
+  ["power_consuming_category"]=&gt;
+  string(9) "TRX1 2110"
+  ["buying_option"]=&gt;
+  string(1) "2"
+  ["minor_admin_charge"]=&gt;
+  string(1) "0"
+  ["total_admin_charges"]=&gt;
+  string(10) "21-9999991"
+  ["minor_stamp_duty"]=&gt;
+  string(1) "0"
+  ["stamp_duty"]=&gt;
+  string(10) "     R1000"
+  ["minor_unit_add_tax"]=&gt;
+  string(1) " "
+  ["minor_unit_lighting_tax"]=&gt;
+  string(1) " "
+  ["public_lighting_tax"]=&gt;
+  string(10) "  R1000000"
+  ["minor_unit_installment"]=&gt;
+  string(1) "9"
+  ["customer_payable_install"]=&gt;
+  string(10) "0000000000"
+  ["minor_unit_power_purchase"]=&gt;
+  string(1) "0"
+  ["power_purchase"]=&gt;
+  string(12) "201409200920"
+  ["minor_unit_kwh_purchase"]=&gt;
+  string(1) "1"
+  ["purchase_kwh_unit"]=&gt;
+  string(1) "1"
+  ["current_meter_reading1"]=&gt;
+  string(8) "36250002"
+  ["previous_meter_reading2"]=&gt;
+  string(8) "38140000"
+  ["current_meter_reading2"]=&gt;
+  string(8) "00000000"
+  ["previous_meter_reading3"]=&gt;
+  string(8) "00000000"
+  ["current_meter_reading3"]=&gt;
+  string(8) "00000000"
+}
+</body></html>

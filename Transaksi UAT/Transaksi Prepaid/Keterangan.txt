@@ -1,0 +1,25 @@
+
+
+
+-2.15 Response Purchase 0047
+-2.16 Response Inquiry Sukses Purchase 0005
+-2.19 Response Inquiry Code 0077
+-2.1.10 Response Inquiry Code 0077
+-2.2.1 Response Inquiry Sukses Code 0000 Response Purchase Code 0068 Response Purchase Advice Code 0000
+-2.2.2 Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Purchase Advice Code 0063
+-2.2.3 Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Purchase Advice Code 0000
+-2.2.4 Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Purchase Advice Code 0063
+-2.3.1 Response Inquiry Sukses Code 0000 Response Purchase Code 0068 Response Purchase Advice Code 0063
+-2.3.2 Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Purchase Advice Code 0063
+-2.3.3 Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Purchase Advice Code 0063
+-2.3.4 Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Purchase Advice Code 0063
+-2.4.1 Response Inquiry Sukses Code 0000 Response Purchase Code 0068 Response Purchase Advice Code 0068
+-2.4.2 Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Purchase Advice Code 0063
+-2.4.3 Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Purchase Advice Code 0005
+-2.4.4 Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Purchase Advice Code 0063
+-2.5.1 Response Inquiry Sukses Code 0000 Response Purchase Code 0068 Response Purchase Advice Code 0068
+-2.5.2 Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Purchase Advice Code 0063
+-2.5.3 Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Purchase Advice Code 0005
+-2.5.4 Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Purchase Advice Code 0063
+-3.1 Response Inquiry Sukses Code 0000 Response Purchase Code 0000 Response Purchase Advice Code 0000
+-3.2 Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Purchase Advice Code 0063

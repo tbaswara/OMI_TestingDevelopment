@@ -1,0 +1,38 @@
+*Yang ada Tanda Bintang nya berarti tidak sesuai dengan dokumen*
+
+
+Transaksi Normal
+
+-1.a Response Inquiry Sukses Code 0000 Response Purchase Code 0000 
+-1.b Response Inquiry Sukses Code 0000 Response Purchase Code 0000 
+-1.c Response Inquiry Sukses Code 0088 *(RC Sukses 0000)
+-1.d Response Inquiry Sukses Code 0000 Response Purchase Code 0000 
+-1.e Response Inquiry Sukses Code 0000 Response Purchase Code 0046 *
+-1.f Response Inquiry Sukses Code 0088 *
+
+Transaksi Abnormal 
+
+-2.a.1 Response Inquiry Sukses Code 0014
+-2.a.2 Response Inquiry Sukses Code 0089
+-2.a.3 Response Inquiry Sukses Code 0088
+-2.a.4 Response Inquiry Sukses Code 0000 *(RC 17)
+-2.a.5 Response Inquiry Sukses Code 0077
+-2.b.i Response Inquiry Sukses Code 0000 Response Purchase Code 0068 Response Reversal Code 0000
+-2.b.ii Response Inquiry Sukses Code 0000 Response Purchase Code 0068 Response Reversal Code 0068
+-2.b.iii Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Reversal Code 0000
+-2.b.iv Response Inquiry Sukses Code 0000 Response Purchase Code 0005 Response Reversal Code 0005
+-2.b.v Response Inquiry Sukses Code 0000 Response Purchase Code 0000 Response Reversal Code 0063 *(RC Purchase=68)
+-2.b.vi Response Inquiry Sukses Code 0000 Response Purchase Code 0000 Response Reversal Code 0063 *(RC Purchase=05)
+
+Transaksi Multiklien
+
+-3.a.i  Response Inquiry Code 0014 *
+-3.a.ii Response Inquiry Code 0014 *
+-3.b.i Response Inquiry Code 0000 Response Purchase Code 0000
+-3.b.ii Response Inquiry Code 0000 Response Purchase Code 0000
+
+Transaksi CetakUlang
+
+-4.a Response Inquiry Code 0000 Response Purchase Code 0000
+-4.b Response Inquiry Code 0000 Response Purchase Code 0000
+

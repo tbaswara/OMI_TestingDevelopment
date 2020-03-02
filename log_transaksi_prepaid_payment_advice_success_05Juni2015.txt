@@ -1,0 +1,122 @@
+
+<!-- saved from url=(0053)http://localhost/ShymponiPaymentPoint/RunSyhmpony.php -->
+<html pmbx_context="A339FF59-9050-41EE-8A58-D66EA11BD54A"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head><body>string(125) "2100403000418081000005995020000000274532015051811041960210745100170745678980000000000000048031JTL53L3014288007015511111111110"
+string(287) "21104030004182810004059950200000002745320150518110419602107451001707456789800000000000000000048144ST145S30142880070151128800701206814607A14148U9546A30113367046560451217U656O22249243164620980743ISMAIL/MAENG               R1000000900200000000000395151128022-1234567    00120100000040000ÿ
+"
+object(stdClass)#3 (32) {
+  ["mti"]=&gt;
+  string(4) "2110"
+  ["bitmap"]=&gt;
+  string(16) "4030004182810004"
+  ["length_of_pan"]=&gt;
+  string(2) "05"
+  ["pan"]=&gt;
+  string(5) "99502"
+  ["stan"]=&gt;
+  string(12) "000000027453"
+  ["date_time"]=&gt;
+  string(14) "20150518110419"
+  ["merchant"]=&gt;
+  string(4) "6021"
+  ["lbank"]=&gt;
+  string(2) "07"
+  ["bankcode"]=&gt;
+  string(7) "4510017"
+  ["lcid"]=&gt;
+  string(2) "07"
+  ["cid"]=&gt;
+  string(7) "4567898"
+  ["rc"]=&gt;
+  string(4) "0000"
+  ["terminal_id"]=&gt;
+  string(16) "0000000000000048"
+  ["length_privated"]=&gt;
+  string(3) "144"
+  ["switcher_id"]=&gt;
+  string(7) "ST145S3"
+  ["material_number"]=&gt;
+  string(11) "01428800701"
+  ["subscriber_id"]=&gt;
+  string(12) "511288007012"
+  ["flag"]=&gt;
+  string(1) "0"
+  ["pln_reference_number"]=&gt;
+  string(32) "6814607A14148U9546A3011336704656"
+  ["switcher_reference_number"]=&gt;
+  string(32) "0451217U656O22249243164620980743"
+  ["subscriber_name"]=&gt;
+  string(25) "ISMAIL/MAENG             "
+  ["subscriber_segmentation"]=&gt;
+  string(4) "  R1"
+  ["power_consuming_category"]=&gt;
+  string(9) "000000900"
+  ["minor_unit_admin_charges"]=&gt;
+  string(1) "2"
+  ["admin_charges"]=&gt;
+  string(10) "0000000000"
+  ["length_add_private_2"]=&gt;
+  string(3) "039"
+  ["distribution_code"]=&gt;
+  string(2) "51"
+  ["service_unit"]=&gt;
+  string(5) "51128"
+  ["service_phone_unit"]=&gt;
+  string(15) "022-1234567    "
+  ["max_kwh_unit"]=&gt;
+  string(5) "00120"
+  ["total_repeat"]=&gt;
+  string(1) "1"
+  ["power_purchase"]=&gt;
+  string(11) "00000040000"
+}
+string(297) "22005030004180810004059950236000000000300000000000274532015051811041960210745100170745678980000000000000048145ST145S30142880070151128800701206814607A14148U9546A30113367046560451217U656O22249243164620980743ISMAIL/MAENG               R10000009002000000000000395151128022-1234567    00120100000040000"
+string(469) "22105032004182810006059950236000000000300000000000274532015051811041920150606602107451001707456789800000000000000000048241ST145S30142880070151128800701206814607A14148U9546A30113367046560451217U656O2224924316462098074372520891ISMAIL/MAENG               R100000090002000000000020000000000200000000002000015000020000500000200000235000020000003884590850343617593028070395151128022-1234567    00120100000040000058Informasi hubungi call center 123 Atau Hub. PLN Terdekat :ÿ
+"
+object(stdClass)#6 (21) {
+  ["mti"]=&gt;
+  string(4) "2210"
+  ["bitmap"]=&gt;
+  string(16) "5032004182810006"
+  ["length_of_pan"]=&gt;
+  string(2) "05"
+  ["pan"]=&gt;
+  string(5) "99502"
+  ["iso_code"]=&gt;
+  string(3) "360"
+  ["currency_minor"]=&gt;
+  string(1) "0"
+  ["value_amount"]=&gt;
+  string(12) "000000030000"
+  ["stan"]=&gt;
+  string(12) "000000027453"
+  ["time"]=&gt;
+  string(14) "20150518110419"
+  ["merchant"]=&gt;
+  string(4) "2015"
+  ["lbank"]=&gt;
+  string(2) "06"
+  ["bankcode"]=&gt;
+  string(7) "0660210"
+  ["lcid"]=&gt;
+  string(2) "74"
+  ["cid"]=&gt;
+  string(7) "5100170"
+  ["rc"]=&gt;
+  string(4) "7456"
+  ["terminal_id"]=&gt;
+  string(16) "7898000000000000"
+  ["length_privated"]=&gt;
+  string(3) "000"
+  ["switcher_id"]=&gt;
+  string(7) "0004824"
+  ["material_number"]=&gt;
+  string(11) "1ST145S3014"
+  ["subscriber_id"]=&gt;
+  string(12) "288007015112"
+  ["flag"]=&gt;
+  string(1) "8"
+}
+string(297) "22205030004180810004059950236000000000300000000000274532015051811041960210745100170745678980000000000000048145ST145S30142880070151128800701206814607A14148U9546A30113367046560451217U656O22249243164620980743ISMAIL/MAENG               R10000009002000000000000395151128022-1234567    00120100000040000"
+string(461) "223050300041828100060599502360000000003000000000002745320150518110419602107451001707456789800000000000000000048241ST145S30142880070151128800701206814607A14148U9546A30113367046560451217U656O2224924316462098074351379502ISMAIL/MAENG             R1  00000090002000000000020000000000200000000002000015000020000500000200000235000020000003884590850343617593028070395151128022-1234567    00120100000040000058Informasi hubungi call center 123 Atau Hub. PLN Terdekat :ÿ
+"
+</body></html>

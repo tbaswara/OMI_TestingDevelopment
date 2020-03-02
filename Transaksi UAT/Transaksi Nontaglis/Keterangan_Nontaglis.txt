@@ -1,0 +1,32 @@
+*Yang ada Tanda Bintang nya berarti tidak sesuai dengan dokumen*
+
+Transaksi Normal
+
+-1.a Response Inquiry Code 0088	Response Purchase Code *
+-1.b Response Inquiry Code 0000	Response Purchase Code 0000
+-1.c Response Inquiry Code 0000	Response Purchase Code 0046
+-1.d Response Inquiry Code 0000	Response Purchase Code 0000
+
+Transaksi Abnormal
+
+-2.a.1 Response Inquiry Code 0014
+-2.a.2 Response Inquiry Code 0005
+-2.a.3 Response Inquiry Code 0000 Response Purchase Code 0000 *
+-2.a.4 Response Inquiry Code 0077
+-2.a.5 Response Inquiry Code 0000 *
+-2.b.1 Response Inquiry Code 0000 Response Purchase Code 0068 Response Reversal Code 0000
+-2.b.2 Response Inquiry Code 0000 Response Purchase Code 0068 Response Reversal Code 0000 *
+-2.b.3 Response Inquiry Code 0000 Response Purchase Code error *
+-2.b.4 Response Inquiry Code 0000 Response Purchase Code 0005 Response Reversal Code 0000 *
+-2.b.5 Response Inquiry Code 0000 Response Purchase Code 0068 Response Reversal Code 0063
+-2.b.6 Response Inquiry Code 0000 Response Purchase Code 0068 Response Reversal Code 0063 *
+-2.b.7 Response Inquiry Code 0000 Response Purchase Code 0068 Response Reversal Code 0012
+-2.b.8 Response Inquiry Code 0000 Response Purchase Code 0068 Response Reversal Code 0012
+
+Transaksi MultiKlien
+
+-3.a.1 Response Inquiry Code 0000 Response Purchase Code 0000
+-3.a.2 Response Inquiry Code 0000 Response Purchase Code 0000
+-3.b.1 Response Inquiry Code 0088 *
+-3.b.2 Response Inquiry Code 0000 Response Purchase Code 0000
+

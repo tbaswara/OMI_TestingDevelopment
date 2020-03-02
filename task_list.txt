@@ -1,0 +1,6 @@
+-Sign On apakah diperlukan?format nya bagaimana? Pake Log In,ID Diberikan oleh Pihak Syhmponi
+-Minta Format Struk dan element dalam struk di format iso
+-idpel ada yang 11 digit?bedanya sama nometer?
+-nominal minimun transaksi prepaid,kelipatan berapa?,dan maksimal
+-biaya admin berapa?
+-request admin diluar 2000?

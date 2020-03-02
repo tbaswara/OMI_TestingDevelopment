@@ -1,0 +1,129 @@
+Log Transaksi Prepaid Inquiry Dan Payment
+
+Jam 10.18 :
+
+string(264) "2200503000418081000405995023600000000050000000258416300201408061021216012074510017074510206 000000000000000124JTL53L3142345678910000000000000800FE2A2A30ADD16AD7A8087F6E65DE2CCC3F6550D76C4163008C93D0645BCF3BUDIMAN/.,STR1987654321200000027000505151106900060002000010"
+string(271) "22105030004182810004059950236000000000500000000000000002014080610212160120745100170745102060005 000000000000000124JTL53L3142345678910000000000000800FE2A2A30ADD16AD7A8087F6E65DE2CCC3F6550D76C4163008C93D0645BCF3BUDIMAN/.,STR1987654321200000027000505151106900060002000010ÿ
+"
+object(stdClass)#5 (21) {
+  ["mti"]=>
+  string(4) "2210"
+  ["bitmap"]=>
+  string(16) "5030004182810004"
+  ["length_of_pan"]=>
+  string(2) "05"
+  ["pan"]=>
+  string(5) "99502"
+  ["iso_code"]=>
+  string(3) "360"
+  ["currency_minor"]=>
+  string(1) "0"
+  ["value_amount"]=>
+  string(12) "000000050000"
+  ["stan"]=>
+  string(12) "000000000000"
+  ["time"]=>
+  string(14) "20140806102121"
+  ["merchant"]=>
+  string(4) "6012"
+  ["lbank"]=>
+  string(2) "07"
+  ["bankcode"]=>
+  string(7) "4510017"
+  ["lcid"]=>
+  string(2) "07"
+  ["cid"]=>
+  string(7) "4510206"
+  ["rc"]=>
+  string(4) "0005"
+  ["terminal_id"]=>
+  string(16) " 000000000000000"
+  ["length_privated"]=>
+  string(3) "124"
+  ["switcher_id"]=>
+  string(7) "JTL53L3"
+  ["material_number"]=>
+  string(11) "14234567891"
+  ["subscriber_id"]=>
+  string(12) "000000000000"
+  ["flag"]=>
+  string(1) "0"
+}
+
+
+Jam 14.42 Tanggal 13 Mei 2015
+
+Transaksi Inquiry
+
+Request :
+
+210040300041808100000599502000258416300201408061021216021074510017074510206 000000000000000031000000014234567891  1428800711000000000010000000ÿ
+
+Response :
+
+2110403000418281000405995020002584163002014080610212160210745100170745102060000 000000000000000144JTL53L3142345678915511111111110F7A169C266BB39F6871CE6E38AD8C0E00DCAEFFB3F5EC416300C85F6302D1697BUDIM"AN/.,ST            R1  987654321200000000000505151106900            0600020000100000000010000000ÿ
+
+ ["mti"]=>
+  string(4) "2110"
+  ["bitmap"]=>
+  string(16) "4030004182810004"
+  ["length_of_pan"]=>
+  string(2) "05"
+  ["pan"]=>
+  string(5) "99502"
+  ["stan"]=>
+  string(12) "000258416300"
+  ["time"]=>
+  string(14) "20140806102121"
+  ["merchant"]=>
+  string(4) "6021"
+  ["lbank"]=>
+  string(2) "07"
+  ["bankcode"]=>
+  string(7) "4510017"
+  ["lcid"]=>
+  string(2) "07"
+  ["cid"]=>
+  string(7) "4510206"
+  ["rc"]=>
+  string(4) "0000"
+  ["terminal_id"]=>
+  string(16) " 000000000000000"
+  ["length_privated"]=>
+  string(3) "144"
+  ["switcher_id"]=>
+  string(7) "JTL53L3"
+  ["material_number"]=>
+  string(11) "14234567891"
+  ["subscriber_id"]=>
+  string(12) "551111111111"
+  ["flag"]=>
+  string(1) "0"
+  ["pln_reference_num"]=>
+  string(32) "F7A169C266BB39F6871CE6E38AD8C0E0"
+  ["switcher_reference_num"]=>
+  string(32) "D5D5997AF20EF416300DD99D2264A060"
+  ["subscriber_name"]=>
+  string(25) "BUDIM"AN/.,ST            "
+  ["subscriber_segmentation"]=>
+  string(4) "R1  "
+  ["power_consuming_category"]=>
+  string(9) "987654321"
+  ["minor_unit_admin_charges"]=>
+  string(1) "2"
+  ["admin_charges"]=>
+  string(9) "000000000"
+  ["length_add_private_2"]=>
+  string(3) "005"
+  ["distribution_code"]=>
+  string(2) "05"
+  ["service_unit"]=>
+  string(5) "15110"
+  ["service_phone_unit"]=>
+  string(15) "6900           "
+  ["max_kwh_unit"]=>
+  string(5) " 0600"
+  ["total_repeat"]=>
+  string(1) "0"
+  ["power_purchase"]=>
+  string(11) "20000100000"
